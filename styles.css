@@ -38,7 +38,7 @@ body {
   bottom: 20px;
   left: 20px;
   margin: 0;
-  opacity: 0;
+  opacity: 1;
 }
 
 .active {
